@@ -37,7 +37,7 @@
         sub.disabled = true;
         sub.style.border = '2px solid red';
         document.querySelector("#task").style.outline = 'none';
-        document.querySelector("#task").style.marginLeft = '600px';
+      
 
 }
     )};
